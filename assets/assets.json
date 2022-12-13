@@ -1,6 +1,6 @@
 {
     "clientImages": {
-        "primaryLogo": "assets/images/flames.gif"
+        "primaryLogo": "assets/images/flames.png"
     },
     "clientNames": {
         "title": "FHIR Lite"

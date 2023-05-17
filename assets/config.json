@@ -3,6 +3,10 @@
     "clientAppName": "fhirlite",
     "clientAppTitle": "FHIR Lite EHR"
   },
+  "clientFeatures": {
+    "shouldShowAppDownloadInsideSettings": false,
+    "shouldShowAppDownloadLinksOnWeb": true
+  },
   "clientLinks": {
     "clientEmail": "",
     "clientWebsite": "https://mayjuun.com/",

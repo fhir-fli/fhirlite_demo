@@ -1,13 +1,13 @@
-name: demo
+name: fhirlite_demo
 description: A new Flutter project.
 publish_to: 'none' 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.19.0 <3.0.0'
 
 dependencies:
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.5
   fhirlite: 
     path: ../fhirlite
   flutter:
@@ -28,4 +28,3 @@ flutter:
   - assets/
   - assets/images/
   - assets/icons/
-  - assets/fhir/

@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "dev.fhirfli" "\0"
-            VALUE "FileDescription", "demo" "\0"
+            VALUE "FileDescription", "fhirlite_demo" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "demo" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 dev.fhirfli. All rights reserved." "\0"
-            VALUE "OriginalFilename", "demo.exe" "\0"
-            VALUE "ProductName", "demo" "\0"
+            VALUE "InternalName", "fhirlite_demo" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 dev.fhirfli. All rights reserved." "\0"
+            VALUE "OriginalFilename", "fhirlite_demo.exe" "\0"
+            VALUE "ProductName", "fhirlite_demo" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

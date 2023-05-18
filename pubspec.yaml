@@ -7,14 +7,14 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
-  cupertino_icons: ^1.0.5
   fhirlite: 
     path: ../fhirlite
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  intl: ^0.18.0
+  flutter_riverpod: ^2.3.6
+  get_it: ^7.6.0
   translations:
     path: ../translations
 

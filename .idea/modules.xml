@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/demo_android.iml" filepath="$PROJECT_DIR$/android/demo_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fhirlite_demo.iml" filepath="$PROJECT_DIR$/fhirlite_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/fhirlite_demo_android.iml" filepath="$PROJECT_DIR$/android/fhirlite_demo_android.iml" />
     </modules>
   </component>
 </project>

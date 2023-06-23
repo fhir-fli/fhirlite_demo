@@ -25,6 +25,8 @@ dev_dependencies:
 dependency_overrides:
   http: ^1.0.0
   intl: ^0.18.0
+  package_info_plus: ^4.0.1
+  win32: any
 
   
 flutter:

@@ -14,5 +14,5 @@ Future<void> main() async {
 
   /// Ensure you include the Provider scope, and call the Init widget (this
   /// initializes all of our async things prior to running the app)
-  runApp(const ProviderScope(child: Init(configFile)));
+  runApp(const ProviderScope(child: Init('file.dart')));
 }

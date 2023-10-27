@@ -1,10 +1,10 @@
 name: fhirlite_demo
 description: A new Flutter project.
-publish_to: 'none' 
+publish_to: "none"
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   fhirlite:
@@ -19,14 +19,15 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.3
-  
+
 flutter:
   uses-material-design: true
   generate: true
   assets:
-  - assets/
-  - assets/images/
-  - .env
+    - assets/
+    - assets/images/
+    - .env
 
-# dependency_overrides:
+dependency_overrides:
+  intl: ^0.18.1
 #   biometric_storage: ^5.0.0
